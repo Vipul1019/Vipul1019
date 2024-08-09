@@ -8,7 +8,7 @@
 
 ---
 ### 👦 About Me
-- 👨‍💻 I'm a B-Tech ECE Final year student at Kle Technological University.
+- 👨‍💻 I'm a B-Tech ECE graduate student from Kle Technological University.
 
 - 🔭 I’m currently working on **MACHINE LEARNING AND COMPUTER VISION** & focusing on **DSA**.
 
