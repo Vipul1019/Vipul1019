@@ -10,9 +10,9 @@
 ### 👦 About Me
 - 👨‍💻 I'm a B-Tech ECE graduate student from Kle Technological University.
 
-- 🔭 I’m currently working on **MACHINE LEARNING AND COMPUTER VISION** & focusing on **DSA**.
+- 🔭 I’m currently working on **MACHINE LEARNING AND COMPUTER VISION** & focusing on **Application Development**.
 
-- 🌱 I’m currently developing and learning **Flutter and other app-dev tools.**
+- 🌱 I’m currently developing and learning **AI Models and Desktop App Developmet**
 
 - ⚡ Fun fact : **My GitHub codes = 40% Me + 30% StackOverflow + 10% Google + 20% BlackBox** 
 
