@@ -12,9 +12,9 @@
 
 - 🔭 I’m currently working on **MACHINE LEARNING AND COMPUTER VISION** & focusing on **Application Development**.
 
-- 🌱 I’m currently developing and learning **AI Models and Desktop App Developmet**
+- 🌱 I’m currently developing and learning to **Build AI Models and Insustry grade Desktop Applications**
 
-- ⚡ Fun fact : **My GitHub codes = 40% Me + 30% StackOverflow + 10% Google + 20% BlackBox** 
+- ⚡ Fun fact : **🚀 Writing code is easy. Explaining why it works? That’s where the real magic happens. ✨** 
 
 --- 
 
